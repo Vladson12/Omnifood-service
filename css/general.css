@@ -269,7 +269,7 @@ strong {
 }
 
 .to-hide {
-  opacity: 100%;
+  opacity: 0;
 }
 
 .to-deemphasize {
